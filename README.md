@@ -1,6 +1,6 @@
 # ice-crystal-halos
 
-Repository for the code from my MSc project titled [**Physically Based Rendering of Ice Crystal Halos**](https://raw.githubusercontent.com/ArthurFirmino/arthurfirmino.github.io/master/msc_project.pdf).
+Repository for the code from my MSc project titled [**Physically Based Rendering of Ice Crystal Halos**](https://dspace.library.uvic.ca/handle/1828/10602).
 
 Consists of a phase function plugin for the [Mitsuba](https://www.mitsuba-renderer.org/) renderer written in C++, 
 and a MATLAB script for pre-computing the tabulated phase function.
